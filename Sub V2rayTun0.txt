@@ -29,3 +29,16 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8
 vless://601fd650-c18b-47e8-8dbe-fb8ce397b346@cdn4.greewebservices.ir:2095?path=%2F&security=&encryption=none&host=turpanel2cdn.consolegamenet.ir&type=httpupgrade#%40V2rayTun0%F0%9F%A7%AD%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%B3%F0%9F%87%B1%40V2rayTun0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%40V2rayTun0%F0%9F%87%B1%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%40V2rayTun0%F0%9F%9A%A9New13
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=none&encryption=none&headerType=none&type=tcp#%40V2rayTun0%F0%9F%9A%A9New12
+vless://Telegram-modvpn7@193.232.178.78:443?path=%2F&security=none&encryption=none&type=ws#%40V2rayTun0%F0%9F%9A%A9New11
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%40V2rayTun0%F0%9F%9A%A9New10
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#%40V2rayTun0%F0%9F%9A%A9New9
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&encryption=none&headerType=none&type=tcp#%40V2rayTun0%F0%9F%9A%A9New8
+vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=%2Fid-tksi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#%40V2rayTun0%F0%9F%9A%A9New7
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#%40V2rayTun0%F0%9F%9A%A9New6
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#%40V2rayTun0%F0%9F%9A%A9New5
+vless://117a76d6-3a09-4ed7-adfe-4e7b7ffa7725@57.131.38.150:9443?path=%2Fstream%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=it.connfull.org&fp=chrome&type=ws&allowInsecure=0&sni=it.connfull.org#%40V2rayTun0%F0%9F%9A%A9New4
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#%40V2rayTun0%F0%9F%9A%A9new2
+vless://da48859d-edf9-4a8c-a026-80910591f284@nytimes.com:80?mode=auto&path=%2FTignal&security=&encryption=none&host=tignaltofansv8.global.ssl.fastly.net&type=xhttp#%40V2rayTun0%F0%9F%9A%A9new1
+vless://28f79470-c550-40b0-9e46-834a46ac8da8@188.114.97.6:443?path=%2Fid-pusat&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=help.viu.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=help.viu.com.cyylr.eu.cc#%40V2rayTun0%F0%9F%9A%A9New3
